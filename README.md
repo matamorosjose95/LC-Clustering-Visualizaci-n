@@ -1,4 +1,4 @@
-"Proyecto-EL4106" 
+Proyecto Clustering y visualización de curvas de luz de estrellas periódicas 
 
 Link para acceder al dirve con las bases de datos utilizadas (archivos pesan 600 MB aprox):
 https://drive.google.com/drive/folders/1ID3UAr14YoxuoChSLnaF-SxtuVNeAxv_?usp=sharing
